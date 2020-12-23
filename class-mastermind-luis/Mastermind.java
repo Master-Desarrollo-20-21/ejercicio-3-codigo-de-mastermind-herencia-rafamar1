@@ -1,4 +1,4 @@
-public class Mastermind { 
+/*public class Mastermind { 
 
   private Game game; 
 
@@ -25,4 +25,4 @@ public class Mastermind {
     new Mastermind().play(); 
   } 
 
-}
+}*/
